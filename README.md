@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏬 Alaz Yaşam Merkezi Yönetim Paneli
 
 Bu proje, Alaz Yaşam Merkezi'ne ait mağazaların, personellerin ve stokların yönetilebildiği modern bir yönetim panelidir. Proje tamamen **Python** ve **Streamlit** kullanılarak geliştirilmiştir ve veri saklama için **SQLite** veritabanı kullanır.
@@ -50,3 +51,6 @@ Bu proje, Alaz Yaşam Merkezi'ne ait mağazaların, personellerin ve stokların 
 
 ## 📂 Dosya Yapısı
 
+=======
+# avm_app
+>>>>>>> f3e0a073bf78d7b1b9ca16640a7240fe5fc23637
