@@ -49,8 +49,3 @@ Bu proje, Alaz Yaşam Merkezi'ne ait mağazaların, personellerin ve stokların 
 
 > Not: `magazadb.sqlite` dosyasının proje dizininde bulunduğundan emin olun.
 
-## 📂 Dosya Yapısı
-
-=======
-# avm_app
->>>>>>> f3e0a073bf78d7b1b9ca16640a7240fe5fc23637
